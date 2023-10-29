@@ -29,9 +29,10 @@
     import cv2 as cv
     ```
 
-## よく使う環境
-* vscode
-* jupyternotebook
+## ターミナルコマンド
+* windows powershellで実行する
+
+
 * コードスタイルチェック
     ```powershell
     # インストール
@@ -44,7 +45,9 @@
     pylint 'ファイル名.py'      # flake8 + さらに細かくチェック
     ```
 
-## ターミナルコマンド
+## よく使う環境
+* vscode
+* jupyternotebook
 
-pip コマンド
-[pip_Doc](https://pip.pypa.io/en/stable/cli/)
+## よく読むべきドキュメント
+[pipコマンド一覧 https://pip.pypa.io/en/stable/cli/](https://pip.pypa.io/en/stable/cli/)
