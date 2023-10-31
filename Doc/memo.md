@@ -38,7 +38,7 @@
     a_dict = {'a':1, 'b':2}    # 辞書(左がキー, 右が値)
     a_set = {1, 2}             # 集合(論理で使う)
 
-    print(as_name)
+    print(a_name)             # 出力
 
     # 演算
     a = 1
@@ -59,7 +59,6 @@
     a >= b              # aはb以上
     a != b              # aはbでない
     a in b              # aはbに含まれている
-    a not b
 
     ```
 
